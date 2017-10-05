@@ -730,11 +730,12 @@ Alternatively, you can force the linter to ignore any line by adding `// eslint-
 Install Inferno Bootstrap and Bootstrap from npm. Inferno Bootstrap does not include Bootstrap CSS so this needs to be installed as well:
 ```sh
 npm install --save react-bootstrap bootstrap@3
-
+```
 Alternatively you may use `yarn`:
 
 ```sh
 yarn add react-bootstrap bootstrap@3
+```
 Import Bootstrap CSS and optionally Bootstrap theme CSS in the beginning of your ```src/index.js``` file:
 // Put any other imports below so that CSS from your
 // components takes precedence over default styles.
