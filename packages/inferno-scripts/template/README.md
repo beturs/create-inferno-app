@@ -731,7 +731,7 @@ Install Inferno Bootstrap and Bootstrap from npm. Inferno Bootstrap does not inc
 ```sh
 npm install --save react-bootstrap bootstrap@3
 
-Alternatively you may use `yarn`:
+Alternatively you may use \`yarn\`:
 
 ```sh
 yarn add react-bootstrap bootstrap@3
